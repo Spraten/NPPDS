@@ -1,7 +1,7 @@
 # NPPDS
 Notepad Plus Plus Doesn't Suck
 
-![fin1.0](https://github.com/CoolHandSquid/nppds/blob/main/Images/fin1.0.gif)
+![fin1.0](https://github.com/CoolHandSquid/NPPDS/blob/main/fin1.0.png)
 
 ## Gameplan
 - Drag and drop "Notes" folder to use "Folder as a Workspace"
