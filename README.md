@@ -1,6 +1,8 @@
 # NPPDS
 Notepad Plus Plus Doesn't Suck
 
+![fin1.0](https://github.com/CoolHandSquid/nppds/blob/main/Images/fin1.0.gif)
+
 ## Gameplan
 - Drag and drop "Notes" folder to use "Folder as a Workspace"
 - Click "Add Note" to create new note in root of "Notes" folder (move it after being renamed
