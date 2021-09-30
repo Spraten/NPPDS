@@ -32,5 +32,9 @@ Settings > Style Configurator > Select theme: Obsidean
 - TaskList
   - Add TODO: xxxx to add something to Task List
 
-## Hotkeys
+### Hotkeys
 - Stay Tuned
+
+## References
+- https://github.com/GreatApo/notepad-plus-plus-markdown-language-dark-theme
+- https://draculatheme.com/notepad-plus-plus
