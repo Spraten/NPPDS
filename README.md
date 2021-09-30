@@ -19,7 +19,7 @@ Language > Define your own > User Defined Language > Define Your Language > User
 ### Style
 - Zenburn
 ```
-Settings > Style Configurator > Select theme: Obsidean
+Settings > Style Configurator > Select theme: Zenburn
 ```
 
 ### Plugins
