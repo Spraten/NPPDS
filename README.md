@@ -1,5 +1,6 @@
 # NPPDS
 Notepad Plus Plus Doesn't Suck
+Andreas Was here
 
 ![fin1.0](https://github.com/CoolHandSquid/NPPDS/blob/main/fin1.0.png)
 
